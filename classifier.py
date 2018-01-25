@@ -35,7 +35,7 @@ vid3 = pd.read_csv('G:/source_code/video_data/drinking3.csv')
 vid4 = pd.read_csv('G:/source_code/video_data/waving1.csv')
 vid5 = pd.read_csv('G:/source_code/video_data/waving2.csv')
 vid6 = pd.read_csv('G:/source_code/video_data/waving3.csv')
-vid7 = pd.read_csv('G:/source_code/video_data/drinking_waving1.csv')
+vid7 = pd.read_csv('G:/source_code/video_data/drinking_waving1.csv') 
 vid8 = pd.read_csv('G:/source_code/video_data/drinking_waving2.csv')
 vid9 = pd.read_csv('G:/source_code/video_data/drinking_waving3.csv')
 

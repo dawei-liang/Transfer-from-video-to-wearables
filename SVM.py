@@ -32,4 +32,4 @@ LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
 
 print(clf.coef_)
 print(clf.intercept_)
-print(clf.predict([[11,22,15]]))
+print(clf.predict([[11,22,15]])) 
